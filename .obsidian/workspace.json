@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "55b1c4a7326ecfe7",
+        "id": "b9ac8e43d802da09",
         "type": "tabs",
         "children": [
           {
-            "id": "3b831907cbeee8de",
+            "id": "a8340b68e40b617a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps tools.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps tools.md",
+                "file": "OpenSSL Certiificate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps tools.md",
+                "file": "OpenSSL Certiificate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps tools.md"
+                "file": "OpenSSL Certiificate.md"
               }
             }
           },
@@ -144,10 +140,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3b831907cbeee8de",
+  "active": "543235b0eee09991",
   "lastOpenFiles": [
-    "DevOps tools.md",
     "My ZSH Plugins.md",
-    "My ZSH Aliases.md"
+    "My ZSH Aliases.md",
+    "DevOps tools.md",
+    "README.md"
   ]
 }
