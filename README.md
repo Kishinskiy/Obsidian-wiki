@@ -1,0 +1,2 @@
+# Obsidian-wiki
+MyObsidian  knowledge
