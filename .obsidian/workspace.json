@@ -11,8 +11,12 @@
             "id": "a8340b68e40b617a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DevOps tools.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenSSL Certiificate.md",
+                "file": "DevOps tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenSSL Certiificate.md",
+                "file": "DevOps tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenSSL Certiificate.md"
+                "file": "DevOps tools.md"
               }
             }
           },
@@ -132,19 +136,42 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "0ccac7fb7da6057b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "543235b0eee09991",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "dff21121090177e3",
   "lastOpenFiles": [
-    "My ZSH Plugins.md",
+    "Untitled.canvas",
     "My ZSH Aliases.md",
-    "DevOps tools.md",
-    "README.md"
+    "OpenSSL Certiificate.md",
+    "README.md",
+    "My ZSH Plugins.md",
+    "DevOps tools.md"
   ]
 }
