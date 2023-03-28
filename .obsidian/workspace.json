@@ -71,12 +71,8 @@
             "id": "1202ce705238fa1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование в Linux с нуля/Глава 4. ОКРУЖЕНИЕ.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -258,21 +254,21 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "57312976cd1463d5",
   "lastOpenFiles": [
+    "Программирование в Linux с нуля/Глава1. ВВЕДЕНИЕ.md",
     "Программирование в Linux с нуля/Программирование в Linux с нуля.md",
+    "Программирование в Linux с нуля/Глава 2. ПЕРВЫЙ БЛИН.md",
     "Программирование в Linux с нуля/Приложение2. Флаги режима доступа к файлу.md",
     "Программирование в Linux с нуля/Глава 6. МНОГОЗАДАЧНОСТЬ.md",
     "Программирование в Linux с нуля/Глава 5. НИЗКОУРОВНЕВЫЙ ВВОД-ВЫВОД.md",
     "Программирование в Linux с нуля/Глава 4. ОКРУЖЕНИЕ.md",
     "Программирование в Linux с нуля/Глава 3. БИБЛИОТЕКИ.md",
-    "Программирование в Linux с нуля/Глава 2. ПЕРВЫЙ БЛИН.md",
-    "Программирование в Linux с нуля/Глава1. ВВЕДЕНИЕ.md",
     "Программирование в Linux с нуля",
     "DevOps tools.md",
     "Untitled.canvas",
