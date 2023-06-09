@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "HoTo/Как сделать глобальный .gitignore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e41e4a7e77695e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "My ZSH Aliases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,6 +107,7 @@
               "type": "backlink",
               "state": {
                 "file": "My ZSH Aliases.md",
+                "file": "My ZSH Aliases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My ZSH Aliases.md",
                 "file": "My ZSH Aliases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -133,6 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "My ZSH Aliases.md"
                 "file": "My ZSH Aliases.md"
               }
             }
@@ -174,12 +190,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "13a0acfe5d5592eb",
+  "active": "2e41e4a7e77695e8",
   "lastOpenFiles": [
-    "My ZSHRC.md",
-    "My ZSH Aliases.md",
     "My ZSH Plugins.md",
-    "HoTo/Как сделать глобальный .gitignore.md",
     "Программирование в Linux с нуля/Глава 2. ПЕРВЫЙ БЛИН.md",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img/ycloud-startPage.png",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud.md",
@@ -190,6 +203,7 @@
     "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud",
     "Поднимаем Виртуалку на YandexCloud",
+    "My ZSH Aliases.md",
     "DevOps tools.md",
     "README.md",
     "OpenSSL Certiificate.md",
@@ -199,11 +213,13 @@
     "Программирование в Linux с нуля/Программирование в Linux с нуля.md",
     "Программирование в Linux с нуля/Глава1. ВВЕДЕНИЕ.md",
     "Программирование в Linux с нуля/Глава 6. МНОГОЗАДАЧНОСТЬ.md",
+    "HoTo/Как сделать глобальный .gitignore.md",
     "HoTo",
     "Программирование в Linux с нуля/Приложение2. Флаги режима доступа к файлу.md",
     "Программирование в Linux с нуля/Глава 5. НИЗКОУРОВНЕВЫЙ ВВОД-ВЫВОД.md",
     "Программирование в Linux с нуля/Глава 4. ОКРУЖЕНИЕ.md",
     "Программирование в Linux с нуля",
+    "Untitled.canvas"
     "Untitled.canvas"
   ]
 }
