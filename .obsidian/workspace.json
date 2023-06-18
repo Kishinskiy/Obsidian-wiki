@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование в Linux с нуля/Глава 3. БИБЛИОТЕКИ.md",
+                "file": "HoTo/Как сделать глобальный .gitignore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26b7982e545fc0c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMakeLists.txt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование в Linux с нуля/Глава 3. БИБЛИОТЕКИ.md",
+                "file": "CMakeLists.txt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Программирование в Linux с нуля/Глава 3. БИБЛИОТЕКИ.md",
+                "file": "CMakeLists.txt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование в Linux с нуля/Глава 3. БИБЛИОТЕКИ.md"
+                "file": "CMakeLists.txt.md"
               }
             }
           },
@@ -174,29 +187,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7d384db36f7f0a75",
+  "active": "26b7982e545fc0c3",
   "lastOpenFiles": [
-    "Программирование в Linux с нуля/Глава 1. ВВЕДЕНИЕ.md",
-    "PostgreSQL/Quick Start.md",
     "HoTo/Как сделать глобальный .gitignore.md",
+    "CMakeLists.txt.md",
+    "Программирование в Linux с нуля/Глава 2. ПЕРВЫЙ БЛИН.md",
+    "Программирование в Linux с нуля/Глава 3. БИБЛИОТЕКИ.md",
+    "README.md",
     "OpenSSL Certiificate.md",
-    "My ZSH Aliases.md",
     "My ZSHRC.md",
     "My ZSH Plugins.md",
-    "Программирование в Linux с нуля/Глава 2. ПЕРВЫЙ БЛИН.md",
+    "My ZSH Aliases.md",
+    "DevOps tools.md",
+    "PostgreSQL/Quick Start.md",
+    "img/yandex-cloud.md",
+    "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
+    "Программирование в Linux с нуля/Глава 1. ВВЕДЕНИЕ.md",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img/ycloud-startPage.png",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud.md",
-    "img/yandex-cloud.md",
     "img",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img/logo.png",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img",
-    "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud",
     "Поднимаем Виртуалку на YandexCloud",
-    "DevOps tools.md",
-    "README.md",
     "PostgreSQL",
-    "Программирование в Linux с нуля/Глава 3. БИБЛИОТЕКИ.md",
     "Программирование в Linux с нуля/Программирование в Linux с нуля.md",
     "Программирование в Linux с нуля/Глава 6. МНОГОЗАДАЧНОСТЬ.md",
     "HoTo",
