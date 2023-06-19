@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenSSL Certiificate.md",
+                "file": "CMakeLists.txt.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenSSL Certiificate.md",
+                "file": "CMakeLists.txt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenSSL Certiificate.md",
+                "file": "CMakeLists.txt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenSSL Certiificate.md"
+                "file": "CMakeLists.txt.md"
               }
             }
           },
@@ -174,8 +174,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "13a0acfe5d5592eb",
+  "active": "543235b0eee09991",
   "lastOpenFiles": [
+    "OpenSSL Certiificate.md",
     "Программирование в Linux с нуля/Глава 1. ВВЕДЕНИЕ.md",
     "CMakeLists.txt.md",
     "My ZSHRC.md",
@@ -194,7 +195,6 @@
     "Поднимаем Виртуалку на YandexCloud",
     "DevOps tools.md",
     "README.md",
-    "OpenSSL Certiificate.md",
     "PostgreSQL/Quick Start.md",
     "PostgreSQL",
     "Программирование в Linux с нуля/Глава 3. БИБЛИОТЕКИ.md",
