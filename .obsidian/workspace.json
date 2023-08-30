@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMakeLists.txt.md",
+                "file": "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMakeLists.txt.md",
+                "file": "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMakeLists.txt.md",
+                "file": "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMakeLists.txt.md"
+                "file": "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md"
               }
             }
           },
@@ -163,25 +163,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "543235b0eee09991",
+  "active": "13a0acfe5d5592eb",
   "lastOpenFiles": [
+    "DevOps tools.md",
+    "My ZSH Aliases.md",
+    "CMakeLists.txt.md",
     "OpenSSL Certiificate.md",
     "Программирование в Linux с нуля/Глава 1. ВВЕДЕНИЕ.md",
-    "CMakeLists.txt.md",
     "My ZSHRC.md",
     "My ZSH Plugins.md",
-    "My ZSH Aliases.md",
     "HoTo/Как сделать глобальный .gitignore.md",
     "Программирование в Linux с нуля/Глава 2. ПЕРВЫЙ БЛИН.md",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img/ycloud-startPage.png",
@@ -193,7 +194,6 @@
     "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud",
     "Поднимаем Виртуалку на YandexCloud",
-    "DevOps tools.md",
     "README.md",
     "PostgreSQL/Quick Start.md",
     "PostgreSQL",
