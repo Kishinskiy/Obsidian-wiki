@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
+                "file": "HoTo/Как сделать глобальный .gitignore.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
+                "file": "HoTo/Как сделать глобальный .gitignore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
+                "file": "HoTo/Как сделать глобальный .gitignore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md"
+                "file": "HoTo/Как сделать глобальный .gitignore.md"
               }
             }
           },
@@ -151,6 +151,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "a5da44027759f784",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -176,6 +186,7 @@
   },
   "active": "13a0acfe5d5592eb",
   "lastOpenFiles": [
+    "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
     "DevOps tools.md",
     "My ZSH Aliases.md",
     "CMakeLists.txt.md",
@@ -191,7 +202,6 @@
     "img",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img/logo.png",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img",
-    "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud",
     "Поднимаем Виртуалку на YandexCloud",
     "README.md",
