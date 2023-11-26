@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HoTo/Как сделать глобальный .gitignore.md",
+                "file": "HoTo/Как установить Linux с жесткого диска.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HoTo/Как сделать глобальный .gitignore.md",
+                "file": "HoTo/Как установить Linux с жесткого диска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HoTo/Как сделать глобальный .gitignore.md",
+                "file": "HoTo/Как установить Linux с жесткого диска.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HoTo/Как сделать глобальный .gitignore.md"
+                "file": "HoTo/Как установить Linux с жесткого диска.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   },
   "active": "13a0acfe5d5592eb",
   "lastOpenFiles": [
+    "HoTo/Как сделать глобальный .gitignore.md",
+    "HoTo/Как установить Linux с жесткого диска.md",
     "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
     "DevOps tools.md",
     "My ZSH Aliases.md",
@@ -194,7 +196,6 @@
     "Программирование в Linux с нуля/Глава 1. ВВЕДЕНИЕ.md",
     "My ZSHRC.md",
     "My ZSH Plugins.md",
-    "HoTo/Как сделать глобальный .gitignore.md",
     "Программирование в Linux с нуля/Глава 2. ПЕРВЫЙ БЛИН.md",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img/ycloud-startPage.png",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud.md",
