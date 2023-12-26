@@ -20,7 +20,7 @@ mkdir ~/debpkgs/example_1.0.0_x86
 
 4.  В папке DEBIAN создадим файл control следующего содержания
 ```
- 	Package: my-program 
+	Package: my-program 
 	Version: 1.0 
 	Architecture: all 
 	Essential: no 
