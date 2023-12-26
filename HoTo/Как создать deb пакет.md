@@ -25,7 +25,7 @@ mkdir ~/debpkgs/example_1.0.0_x86
 	Architecture: all 
 	Essential: no 
 	Priority: optional 
-	Depends: packages;my-program;needs;to;run 
+	Depends: packages
 	Maintainer: Your Name 
 	Description: A short description of my-program that will be displayed when the package is being selected for installation.
 ```
