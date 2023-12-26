@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HoTo/Добавление GPG Ключей.md",
+                "file": "HoTo/Как создать deb пакет.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HoTo/Добавление GPG Ключей.md",
+                "file": "HoTo/Как создать deb пакет.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HoTo/Добавление GPG Ключей.md",
+                "file": "HoTo/Как создать deb пакет.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HoTo/Добавление GPG Ключей.md"
+                "file": "HoTo/Как создать deb пакет.md"
               }
             }
           },
@@ -172,7 +172,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -199,8 +201,9 @@
   },
   "active": "8707403df68cb5c1",
   "lastOpenFiles": [
-    "HoTo/Как создать свой значек приложения в Gnome-Shell.md",
     "HoTo/Добавление GPG Ключей.md",
+    "HoTo/Как создать deb пакет.md",
+    "HoTo/Как создать свой значек приложения в Gnome-Shell.md",
     "HoTo/Как установить Linux с жесткого диска.md",
     "HoTo/Как сделать глобальный .gitignore.md",
     "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
