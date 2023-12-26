@@ -19,8 +19,8 @@ mkdir ~/debpkgs/example_1.0.0_x86
    /home/USER/debpkgs/opt/myall/example.sh
 
 4.  В папке DEBIAN создадим файл control следующего содержания
-
-	Package: my-program 
+```
+ 	Package: my-program 
 	Version: 1.0 
 	Architecture: all 
 	Essential: no 
@@ -28,6 +28,7 @@ mkdir ~/debpkgs/example_1.0.0_x86
 	Depends: packages;my-program;needs;to;run 
 	Maintainer: Your Name 
 	Description: A short description of my-program that will be displayed when the package is being selected for installation.
+```
 
 подробнее о формате файла control читайте в документации https://manpages.ubuntu.com/manpages/noble/en/man5/deb-control.5.html
 
