@@ -1,0 +1,1 @@
+sudo dd if=Orangepi5plus_1.0.8_debian_bullseye_server_linux6.1.43.img of=/dev/mmcblk0 bs=4M status=progress
