@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "89c77de1d370714e",
+        "id": "0231dd7d04e33a3f",
         "type": "tabs",
         "children": [
           {
-            "id": "13a0acfe5d5592eb",
+            "id": "884077cf64a9fd17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HoTo/Как установить Linux с жесткого диска.md",
+                "file": "Сборка проектов Си и Си++ от простого к сложному. Часть I. Библиотеки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Настройка шифрования TLS для соединений PostgreSQL"
+              "title": "Сборка проектов Си и Си++ от простого к сложному. Часть I. Библиотеки"
             }
           },
           {
-            "id": "8707403df68cb5c1",
+            "id": "f86e32d2eed58b36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HoTo/Как создать deb пакет.md",
+                "file": "HoTo/Image to Base64.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Как настроить OpenVPN на Debian 11. Часть 2"
+              "title": "Image to Base64"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,10 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -66,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nuget",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +76,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -84,7 +86,7 @@
               "type": "starred",
               "state": {},
               "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -101,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 419.5
   },
   "right": {
     "id": "fc0468e1b44b5cc4",
@@ -163,8 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HoTo/Как создать deb пакет.md"
-              }
+                "file": "HoTo/Добавление GPG Ключей.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Добавление GPG Ключей"
             }
           },
           {
@@ -183,8 +187,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -196,7 +200,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -209,20 +215,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8707403df68cb5c1",
+  "active": "f86e32d2eed58b36",
   "lastOpenFiles": [
+    "HoTo/Как подключить nexus nuget репозиторий.md",
+    "HoTo/Image to Base64.md",
+    "Сборка проектов Си и Си++ от простого к сложному. Часть II. Сборщики.md",
+    "Сборка проектов Си и Си++ от простого к сложному. Часть I. Библиотеки.md",
+    "Без названия.canvas",
+    "HoTo/Подключение к Wifi из командной строки.md",
+    "# 25 Most Frequently Used Linux IPTables Rules Examples.md",
     "HoTo/Добавление GPG Ключей.md",
+    "HoTo/Установка OrangePi OS на emmc.md",
+    "HoTo/Настройка шифрования TLS для соединений PostgreSQL.md",
+    "HoTo/Как настроить OpenVPN на Debian 11. Часть 2.md",
+    "HoTo/Как настроить OpenVPN на Debian 11. Часть 1.md",
+    "HoTo/Как расширить LVM раздел.md",
     "HoTo/Как создать deb пакет.md",
     "HoTo/Как создать свой значек приложения в Gnome-Shell.md",
     "HoTo/Как установить Linux с жесткого диска.md",
@@ -238,19 +256,12 @@
     "Программирование в Linux с нуля/Глава 2. ПЕРВЫЙ БЛИН.md",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img/ycloud-startPage.png",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud.md",
-    "img/yandex-cloud.md",
     "img",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img/logo.png",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud",
     "Поднимаем Виртуалку на YandexCloud",
-    "README.md",
-    "PostgreSQL/Quick Start.md",
     "PostgreSQL",
-    "Программирование в Linux с нуля/Глава 3. БИБЛИОТЕКИ.md",
-    "Программирование в Linux с нуля/Программирование в Linux с нуля.md",
-    "Программирование в Linux с нуля/Глава1. ВВЕДЕНИЕ.md",
-    "Программирование в Linux с нуля/Глава 6. МНОГОЗАДАЧНОСТЬ.md",
     "HoTo",
     "Программирование в Linux с нуля",
     "Untitled.canvas"
