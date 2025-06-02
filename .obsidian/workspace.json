@@ -34,9 +34,131 @@
               "icon": "lucide-file",
               "title": "Image to Base64"
             }
+          },
+          {
+            "id": "f99b00fa4d0b1fee",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
+            "id": "b0432bfdbdbf6eaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование в Linux с нуля/Глава 1. ВВЕДЕНИЕ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Глава 1. ВВЕДЕНИЕ"
+            }
+          },
+          {
+            "id": "430fe2935cf57c61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Концепция CI CD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Концепция CI CD"
+            }
+          },
+          {
+            "id": "dd3ee65be3738fea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "3d932f31c7cd2754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HoTo/Image to Base64.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Image to Base64"
+            }
+          },
+          {
+            "id": "40ebbd316ce25f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HoTo/How to Create an OpenVPN Server on Ubuntu 20.04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to Create an OpenVPN Server on Ubuntu 20.04"
+            }
+          },
+          {
+            "id": "7f110fc8eb9b109b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сборка проектов Си и Си++ от простого к сложному. Часть I. Библиотеки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сборка проектов Си и Си++ от простого к сложному. Часть I. Библиотеки"
+            }
+          },
+          {
+            "id": "b4b61d23f7674fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги по программированию/Язык программирования Си (ANSI)/Язык программирования Си (ANSI).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Язык программирования Си (ANSI)"
+            }
+          },
+          {
+            "id": "424d0cc8c05dc1b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HoTo/Installing the Nginx Ingress Controller on K3S.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Installing the Nginx Ingress Controller on K3S"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -177,8 +299,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -188,7 +310,7 @@
               "type": "advanced-tables-toolbar",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -226,36 +348,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f86e32d2eed58b36",
+  "active": "424d0cc8c05dc1b6",
   "lastOpenFiles": [
-    "HoTo/Как подключить nexus nuget репозиторий.md",
-    "HoTo/Image to Base64.md",
-    "Сборка проектов Си и Си++ от простого к сложному. Часть II. Сборщики.md",
+    "1*R6j4ZiEwA-mKDaTP_c1c_w.webp",
+    "Книги по программированию/Язык программирования Си (ANSI)/1. Обзор языка.md",
+    "HoTo/Installing the Nginx Ingress Controller on K3S.md",
+    "Книги по программированию/Язык программирования Си (ANSI)/Введение.md",
+    "Книги по программированию/Язык программирования Си (ANSI)/Предисловие к первому изданию.md",
+    "Книги по программированию/Язык программирования Си (ANSI)/Язык программирования Си (ANSI).md",
+    "Книги по программированию/Язык программирования Си (ANSI)/Предисловие.md",
+    "Книги по программированию/Язык программирования Си (ANSI)",
+    "41ymNJo8BOL._AC_SY780_.jpg",
+    "connect runner with self-signed certificate without disabling TLS..md",
+    "Книги по программированию",
     "Сборка проектов Си и Си++ от простого к сложному. Часть I. Библиотеки.md",
-    "Без названия.canvas",
-    "HoTo/Подключение к Wifi из командной строки.md",
-    "# 25 Most Frequently Used Linux IPTables Rules Examples.md",
+    "Vault/Vault Quick Guide.md",
+    "PostgreSQL/Quick Start.md",
+    "img/yandex-cloud.md",
     "HoTo/Добавление GPG Ключей.md",
-    "HoTo/Установка OrangePi OS на emmc.md",
-    "HoTo/Настройка шифрования TLS для соединений PostgreSQL.md",
-    "HoTo/Как настроить OpenVPN на Debian 11. Часть 2.md",
     "HoTo/Как настроить OpenVPN на Debian 11. Часть 1.md",
+    "HoTo/Как настроить OpenVPN на Debian 11. Часть 2.md",
+    "HoTo/Как подключить nexus nuget репозиторий.md",
     "HoTo/Как расширить LVM раздел.md",
-    "HoTo/Как создать deb пакет.md",
-    "HoTo/Как создать свой значек приложения в Gnome-Shell.md",
-    "HoTo/Как установить Linux с жесткого диска.md",
     "HoTo/Как сделать глобальный .gitignore.md",
-    "Поднимаем Виртуалку на YandexCloud/Установка YC-CLI.md",
-    "DevOps tools.md",
-    "My ZSH Aliases.md",
-    "CMakeLists.txt.md",
-    "OpenSSL Certiificate.md",
-    "Программирование в Linux с нуля/Глава 1. ВВЕДЕНИЕ.md",
-    "My ZSHRC.md",
-    "My ZSH Plugins.md",
-    "Программирование в Linux с нуля/Глава 2. ПЕРВЫЙ БЛИН.md",
+    "HoTo/Как создать свой значек приложения в Gnome-Shell.md",
+    "HoTo/Как создать deb пакет.md",
+    "HoTo/Как установить Linux с жесткого диска.md",
+    "HoTo/Настройка шифрования TLS для соединений PostgreSQL.md",
+    "HoTo/Подключение к Wifi из командной строки.md",
+    "HoTo/Установка OrangePi OS на emmc.md",
+    "HoTo/How to Create an OpenVPN Server on Ubuntu 20.04.md",
+    "HoTo/Image to Base64.md",
+    "Без названия.canvas",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img/ycloud-startPage.png",
-    "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud.md",
     "img",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img/logo.png",
     "Разворачиваем Kubernetes-платформу Deckhouse в Yandex Cloud/img",
